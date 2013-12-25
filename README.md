@@ -1,6 +1,8 @@
 # Kalki
 
-TODO: Write a gem description
+[![Build Status](https://travis-ci.org/emilsoman/kalki.png?branch=master)](https://travis-ci.org/emilsoman/kalki)
+
+Destroyer of Filth
 
 ## Installation
 
@@ -15,13 +17,13 @@ And then execute:
 Or install it yourself as:
 
     $ gem install kalki
-
+ 
 ## Usage
-
-TODO: Write usage instructions here
+ 
+TODO: add stuff here
 
 ## Contributing
-
+ 
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
