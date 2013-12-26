@@ -8,9 +8,9 @@ task :default => :test
 
 task :test => :spec do
   Dir.chdir('./lib/kalki/client') do
+    sh 'npm install'
     sh 'npm install -g bower grunt-cli'
     sh 'bower install'
-    sh 'npm install'
     sh 'npm test'
   end
 end
